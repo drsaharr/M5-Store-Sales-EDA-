@@ -7,6 +7,7 @@ Understanding it requires going beyond simple visualizations.
 In this project, I explored the M5 Store Sales dataset to uncover the structural and behavioral drivers behind retail demand.
 
 🔍 Key Areas of Analysis:
+
 	•	Product hierarchy (category, department, store)
 	•	Zero-heavy sales patterns and inactive items
 	•	Time-series dynamics (2011–2016)
